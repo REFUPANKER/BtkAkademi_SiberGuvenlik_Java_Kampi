@@ -7,6 +7,6 @@
 # Btk Akademi Siber Guvenlik ve Java Kampı
 
 
-[Btk Akedemi](https://www.btkakademi.gov.tr/) Siber Güvenlik ve __Java Kampı__ süresince oluşturduğum uygulamalar 
+[Btk Akedemi](https://www.btkakademi.gov.tr/) Siber Güvenlik veya Java Kampı süresince oluşturduğum uygulamalar 
 * Kamp süresince Java ekibinde bulunmaktaydım
 
